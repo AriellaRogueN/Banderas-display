@@ -1,0 +1,16 @@
+.yellow{
+    
+    background-color: rgb(245, 230, 17)
+}
+
+.gray{
+    background-color:grey;
+    color: white;
+
+}
+.yellow,.gray{
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+
+}
